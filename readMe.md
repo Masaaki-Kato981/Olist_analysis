@@ -45,9 +45,6 @@
 ![](figures/business_segment.png)
 - Overall, Olist should focus continue providing the logistic and system support that these vendors lack
 
-## Conclusion:
-
-
 ## Datasets:
 - For this project, I used [marketing](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist) and [retail](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) data provided by Olist on kaggle
 - The retail data include 100K orders from 2016-2018. 
