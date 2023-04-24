@@ -50,6 +50,7 @@
 - The retail data include 100K orders from 2016-2018. 
 - The marketing data include 8K MQLS from 2017-2018.
 - The data scheme:
+
 ![](figures/schema1.png)
 ![](figures/schema2.png)
 
